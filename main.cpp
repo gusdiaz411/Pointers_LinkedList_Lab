@@ -1,7 +1,7 @@
 /*
  * Book Inventory Management System
- * Author: [Your Name]
- * Date: [Current Date]
+ * Author: Gustavo Diaz
+ * Date: 10/20/2025
  * Purpose: Demonstrate the use of dynamic memory allocation and pointers
  *          with a vector-based inventory system for books.
  *
